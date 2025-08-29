@@ -12,8 +12,8 @@ Each pattern includes:
 ---
 
 ## 📌 Creational Patterns
-- [Singleton](./Design-Patterns/Singleton/README.md)
-- [Factory Method](./Design-Patterns/FactoryMethod/README.md)
+- [Singleton](./Design-Patterns/Singleton)
+- [Factory Method](./Design-Patterns/FactoryMethod)
 
 ## 📌 Structural Patterns
 
