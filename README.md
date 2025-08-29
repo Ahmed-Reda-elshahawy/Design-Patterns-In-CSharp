@@ -13,7 +13,7 @@ Each pattern includes:
 
 ## 📌 Creational Patterns
 - [Singleton](./Design-Patterns/Singleton/README.md)
-- [Factory Method]()
+- [Factory Method](./Design-Patterns/FactoryMethod/README.md)
 
 ## 📌 Structural Patterns
 
